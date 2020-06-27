@@ -1,5 +1,6 @@
 # Coursera-WebDevCourse
 
+https://adiagarwalrock.github.io/Coursera-WebDevCourse/
 
 For browser sync: browser-sync --server --directory --files "*"
 
